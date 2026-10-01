@@ -2,6 +2,8 @@
 
 A terminal built for running coding agents like Claude Code, Codex and OpenCode, with sessions that keep running when you close the window.
 
+![stepbro terminal on macOS, a folder open and Topito waiting for a new session](assets/stepbro-terminal.png)
+
 ## Latest: 0.1.0-beta.27
 
 Settings that read at a glance, with Topito up front.
